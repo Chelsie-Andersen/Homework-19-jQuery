@@ -358,3 +358,16 @@
     }
 
   }
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-image:src="Portfolio/Images/Cats2.png";
+  }
+
+  .drop-in {
+    animation: drop-in 1s ease 200ms backwards;
+   }
