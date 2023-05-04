@@ -368,6 +368,11 @@
     background-image:src="Portfolio/Images/Cats2.png";
   }
 
-  .drop-in {
-    animation: drop-in 1s ease 200ms backwards;
-   }
+  #text-animate {
+    margin: 30px auto; 
+     width: 500px;
+ }
+ .js p { 
+   visibility: hidden; 
+   position: relative; 
+ }
